@@ -16,7 +16,9 @@ import { ActionLoopView } from './components/ActionLoopView.tsx';
 import { SettingsView } from './components/SettingsView.tsx';
 import { SystemHealthView } from './components/SystemHealthView.tsx';
 import { AuthModal } from './components/AuthModal.tsx';
+import { AiCopilotModal } from './components/AiCopilotModal.tsx';
 import { api, UserProfile, OrganizationInfo } from './services/api.ts';
+import { Sparkles } from 'lucide-react';
 
 export default function App() {
   const [currentTab, setCurrentTab] = useState<ActiveTab>('dashboard');
@@ -25,6 +27,7 @@ export default function App() {
   const [activeRole, setActiveRole] = useState<string>('VIEWER');
   const [organizations, setOrganizations] = useState<Array<{ tenantId: string; organizationName: string; role: string }>>([]);
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
+  const [isAiCopilotOpen, setIsAiCopilotOpen] = useState(false);
   const [authModalMode, setAuthModalMode] = useState<'login' | 'register' | 'create-org'>('login');
   const [initialLoading, setInitialLoading] = useState(true);
 
@@ -168,6 +171,22 @@ export default function App() {
         onClose={() => setIsAuthModalOpen(false)}
         onSuccess={bootstrapSession}
       />
+
+      {/* AI Copilot Modal */}
+      <AiCopilotModal
+        isOpen={isAiCopilotOpen}
+        onClose={() => setIsAiCopilotOpen(false)}
+        activeTenant={activeTenant}
+      />
+
+      {/* Floating AI Copilot Trigger Button */}
+      <button
+        onClick={() => setIsAiCopilotOpen(true)}
+        className="fixed bottom-6 right-6 z-40 bg-gradient-to-r from-amber-600 to-amber-500 hover:from-amber-500 hover:to-amber-400 text-zinc-950 px-4 py-3 rounded-full shadow-2xl flex items-center space-x-2 font-bold text-xs transition transform hover:scale-105 border border-amber-300/40"
+      >
+        <Sparkles className="w-4 h-4 text-zinc-950 animate-pulse" />
+        <span>Ask AI Copilot</span>
+      </button>
     </div>
   );
 }

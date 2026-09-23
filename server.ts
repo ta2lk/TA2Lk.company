@@ -20,6 +20,7 @@ import { graphRouter } from './src/backend/routes/graphRoutes.ts';
 import { searchRouter } from './src/backend/routes/searchRoutes.ts';
 import { reasoningRouter } from './src/backend/routes/reasoningRoutes.ts';
 import { actionRouter } from './src/backend/routes/actionRoutes.ts';
+import { aiRouter } from './src/backend/routes/aiRoutes.ts';
 import { db } from './src/backend/db/database.ts';
 import { hashPassword } from './src/backend/security/auth.ts';
 
@@ -136,6 +137,7 @@ async function startServer() {
   app.use('/api/v1/search', searchRouter);
   app.use('/api/v1/reasoning', reasoningRouter);
   app.use('/api/v1/actions', actionRouter);
+  app.use('/api/v1', aiRouter);
   app.use('/api/v1', searchRouter); // For /api/v1/documents
   app.use('/api/v1', healthRouter);
   app.use('/api/v1', openapiRouter);

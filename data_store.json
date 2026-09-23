@@ -674,6 +674,186 @@
       "settings": {},
       "createdAt": "2026-09-23T16:18:23.045Z",
       "updatedAt": "2026-09-23T16:18:23.045Z"
+    },
+    "org_358c373cb5cc4467": {
+      "id": "org_358c373cb5cc4467",
+      "name": "Tenant Alpha Corp",
+      "slug": "tenant-alpha-1790182194732",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:49:54.732Z",
+      "updatedAt": "2026-09-23T16:49:54.732Z"
+    },
+    "org_92db51cdf95148b1": {
+      "id": "org_92db51cdf95148b1",
+      "name": "Tenant Beta Inc",
+      "slug": "tenant-beta-1790182194735",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:49:54.735Z",
+      "updatedAt": "2026-09-23T16:49:54.735Z"
+    },
+    "org_18c83437b036c327": {
+      "id": "org_18c83437b036c327",
+      "name": "Pipe Alpha Plant",
+      "slug": "pipe-alpha-1790182194970",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:49:54.970Z",
+      "updatedAt": "2026-09-23T16:49:54.970Z"
+    },
+    "org_e87d86631afe88be": {
+      "id": "org_e87d86631afe88be",
+      "name": "Pipe Beta Plant",
+      "slug": "pipe-beta-1790182194972",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:49:54.972Z",
+      "updatedAt": "2026-09-23T16:49:54.972Z"
+    },
+    "org_6217b013eae783d9": {
+      "id": "org_6217b013eae783d9",
+      "name": "Tenant Alpha Corp",
+      "slug": "tenant-alpha-1790182288350",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:51:28.350Z",
+      "updatedAt": "2026-09-23T16:51:28.350Z"
+    },
+    "org_cc9e4b7100e9223c": {
+      "id": "org_cc9e4b7100e9223c",
+      "name": "Tenant Beta Inc",
+      "slug": "tenant-beta-1790182288353",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:51:28.353Z",
+      "updatedAt": "2026-09-23T16:51:28.353Z"
+    },
+    "org_e6a5dd55c29e1f7c": {
+      "id": "org_e6a5dd55c29e1f7c",
+      "name": "Pipe Alpha Plant",
+      "slug": "pipe-alpha-1790182288564",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:51:28.564Z",
+      "updatedAt": "2026-09-23T16:51:28.564Z"
+    },
+    "org_e639921eb921ac1a": {
+      "id": "org_e639921eb921ac1a",
+      "name": "Pipe Beta Plant",
+      "slug": "pipe-beta-1790182288566",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:51:28.566Z",
+      "updatedAt": "2026-09-23T16:51:28.566Z"
+    },
+    "org_9b96d1df68275920": {
+      "id": "org_9b96d1df68275920",
+      "name": "Tenant Alpha Corp",
+      "slug": "tenant-alpha-1790182360631",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:52:40.631Z",
+      "updatedAt": "2026-09-23T16:52:40.631Z"
+    },
+    "org_6fdfec7396432e60": {
+      "id": "org_6fdfec7396432e60",
+      "name": "Tenant Beta Inc",
+      "slug": "tenant-beta-1790182360634",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:52:40.635Z",
+      "updatedAt": "2026-09-23T16:52:40.635Z"
+    },
+    "org_8ecda4c6ca747470": {
+      "id": "org_8ecda4c6ca747470",
+      "name": "Pipe Alpha Plant",
+      "slug": "pipe-alpha-1790182360850",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:52:40.850Z",
+      "updatedAt": "2026-09-23T16:52:40.850Z"
+    },
+    "org_97e11b54023fd4ff": {
+      "id": "org_97e11b54023fd4ff",
+      "name": "Pipe Beta Plant",
+      "slug": "pipe-beta-1790182360852",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:52:40.852Z",
+      "updatedAt": "2026-09-23T16:52:40.852Z"
+    },
+    "org_87956203684e6632": {
+      "id": "org_87956203684e6632",
+      "name": "Tenant Alpha Corp",
+      "slug": "tenant-alpha-1790182418937",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:53:38.938Z",
+      "updatedAt": "2026-09-23T16:53:38.938Z"
+    },
+    "org_070df701ca76c3aa": {
+      "id": "org_070df701ca76c3aa",
+      "name": "Tenant Beta Inc",
+      "slug": "tenant-beta-1790182418940",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:53:38.940Z",
+      "updatedAt": "2026-09-23T16:53:38.940Z"
+    },
+    "org_9634fa63ee0074c7": {
+      "id": "org_9634fa63ee0074c7",
+      "name": "Pipe Alpha Plant",
+      "slug": "pipe-alpha-1790182419148",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:53:39.148Z",
+      "updatedAt": "2026-09-23T16:53:39.148Z"
+    },
+    "org_d1cccd5ac9cb6f85": {
+      "id": "org_d1cccd5ac9cb6f85",
+      "name": "Pipe Beta Plant",
+      "slug": "pipe-beta-1790182419150",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:53:39.150Z",
+      "updatedAt": "2026-09-23T16:53:39.150Z"
+    },
+    "org_b22d20814f820207": {
+      "id": "org_b22d20814f820207",
+      "name": "Tenant Alpha Corp",
+      "slug": "tenant-alpha-1790182520452",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:55:20.452Z",
+      "updatedAt": "2026-09-23T16:55:20.452Z"
+    },
+    "org_837fe4253e80f999": {
+      "id": "org_837fe4253e80f999",
+      "name": "Tenant Beta Inc",
+      "slug": "tenant-beta-1790182520455",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:55:20.455Z",
+      "updatedAt": "2026-09-23T16:55:20.455Z"
+    },
+    "org_6c1ae2fe80b7706a": {
+      "id": "org_6c1ae2fe80b7706a",
+      "name": "Pipe Alpha Plant",
+      "slug": "pipe-alpha-1790182520673",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:55:20.674Z",
+      "updatedAt": "2026-09-23T16:55:20.674Z"
+    },
+    "org_ad9b5b8088b137ab": {
+      "id": "org_ad9b5b8088b137ab",
+      "name": "Pipe Beta Plant",
+      "slug": "pipe-beta-1790182520675",
+      "status": "ACTIVE",
+      "settings": {},
+      "createdAt": "2026-09-23T16:55:20.676Z",
+      "updatedAt": "2026-09-23T16:55:20.676Z"
     }
   },
   "users": {
@@ -1149,6 +1329,116 @@
       "isSuperAdmin": false,
       "createdAt": "2026-09-23T16:18:22.985Z",
       "updatedAt": "2026-09-23T16:18:22.985Z"
+    },
+    "usr_1a702fc55b4def45": {
+      "id": "usr_1a702fc55b4def45",
+      "email": "alice_1790182194822@alpha.internal",
+      "fullName": "Alice Alpha",
+      "passwordHash": "94649ab526ec1f1fd926a9330fd332069b35bf711584eda0a11e35ed6018a9a61e7d969d128da2a4a0037421f4abfb4fa4dd898b6ebc606ca05db7fb19e31ab3",
+      "salt": "1bee22872f070533666c7e47614d0833",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:49:54.823Z",
+      "updatedAt": "2026-09-23T16:49:54.823Z"
+    },
+    "usr_b5bfec2ff749367f": {
+      "id": "usr_b5bfec2ff749367f",
+      "email": "bob_1790182194911@beta.internal",
+      "fullName": "Bob Beta",
+      "passwordHash": "c7483b0ae2913d598bde9d943de225db33ea2192e3669b2b1f8821dcf249179d564273077da2b081a1488a3de7f31d4ab2f7ed266f5f92c6c7bb5d3e8345da30",
+      "salt": "a6a617c021cfa5a914139fbdd2187227",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:49:54.911Z",
+      "updatedAt": "2026-09-23T16:49:54.911Z"
+    },
+    "usr_d07a75386bf30346": {
+      "id": "usr_d07a75386bf30346",
+      "email": "alice_1790182288428@alpha.internal",
+      "fullName": "Alice Alpha",
+      "passwordHash": "081dd8ad34f2dc63afab24b2334a104c7360f98f961ebfb45b73bbb0340e5964e1443c8ab758617776e1beeaebaf290252a1de7334d63cab994365937a3ae154",
+      "salt": "6a13214e4ecdcd9940a79c913391e7dc",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:51:28.428Z",
+      "updatedAt": "2026-09-23T16:51:28.428Z"
+    },
+    "usr_8624c2b33abb5b87": {
+      "id": "usr_8624c2b33abb5b87",
+      "email": "bob_1790182288503@beta.internal",
+      "fullName": "Bob Beta",
+      "passwordHash": "fb0a61ea415291fffa398c93e88e1b10ec360191163ece7e0b9133000a5d1f2f7a5f01fd8b64593d97ed0e067265bd22025a38999abbd8953639e4143ed3645d",
+      "salt": "0458d0b6fa47567f5b8ec070be970b80",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:51:28.503Z",
+      "updatedAt": "2026-09-23T16:51:28.503Z"
+    },
+    "usr_533605181a41b5e4": {
+      "id": "usr_533605181a41b5e4",
+      "email": "alice_1790182360710@alpha.internal",
+      "fullName": "Alice Alpha",
+      "passwordHash": "9e1f45ef018eb5373a305306e33f5121f3bdc734da61bc8649fd4f9a77ffa93ca49776c2d16ee793fb35750f1edf6e53256c6e23781726c2ac7bb793c52465b5",
+      "salt": "219212290d8845531826685be4317d7c",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:52:40.711Z",
+      "updatedAt": "2026-09-23T16:52:40.711Z"
+    },
+    "usr_3f5a7ff9246ad314": {
+      "id": "usr_3f5a7ff9246ad314",
+      "email": "bob_1790182360786@beta.internal",
+      "fullName": "Bob Beta",
+      "passwordHash": "f8c3f74d7ea2051c94f6af591c7da56bc249ad6492fe31b784fe1b1e05b91e72cc90138ea1c9818e51db374667144ea1ca425046450b71f3b2edaeff8eebc64f",
+      "salt": "fd5a012736fa3c1cfc21aaf678040d1c",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:52:40.786Z",
+      "updatedAt": "2026-09-23T16:52:40.786Z"
+    },
+    "usr_1a7d42d81310e0d1": {
+      "id": "usr_1a7d42d81310e0d1",
+      "email": "alice_1790182419015@alpha.internal",
+      "fullName": "Alice Alpha",
+      "passwordHash": "12a6e1d107eaf9977aef4939ac659aa2e27d55d6e67b53778b31a9e9cdf31ff34e10fb1c956a7a19006b491b47701e82df016b82cc29d7efd39edee1fcdee049",
+      "salt": "95a801eaf482baefe7f0eecb7df71192",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:53:39.015Z",
+      "updatedAt": "2026-09-23T16:53:39.015Z"
+    },
+    "usr_195bea34b0683da5": {
+      "id": "usr_195bea34b0683da5",
+      "email": "bob_1790182419090@beta.internal",
+      "fullName": "Bob Beta",
+      "passwordHash": "d3ba53bca77ce988fea3a9549c117d49416049f703a3d6b3e7dc5b63ab8947825cc2c5a79e9c598a60e7a14ed9ba6614350aeec36d99594d0bb13991b2edde5c",
+      "salt": "443aab0a08260ce6b41529cce8d923ac",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:53:39.090Z",
+      "updatedAt": "2026-09-23T16:53:39.090Z"
+    },
+    "usr_f7bcb86e035ab1a1": {
+      "id": "usr_f7bcb86e035ab1a1",
+      "email": "alice_1790182520532@alpha.internal",
+      "fullName": "Alice Alpha",
+      "passwordHash": "134cd09915c063a421d0eceecbdc2c6ec8bb786e913388de9529b95b3a1602e8eb650fed7c3bce506c9029148d60c9102056641a3a34521d13666fdedb4761d4",
+      "salt": "67f88738e81c0cb0c283833613629977",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:55:20.533Z",
+      "updatedAt": "2026-09-23T16:55:20.533Z"
+    },
+    "usr_eae39d4ebdfcf5bf": {
+      "id": "usr_eae39d4ebdfcf5bf",
+      "email": "bob_1790182520611@beta.internal",
+      "fullName": "Bob Beta",
+      "passwordHash": "b1e975886ab0032e52c5c9b8cf0cf9bcf831d915ef76a1ee33d978438941ce7305d1d0acc788d0db173a42fdb548027996e12c81fd756633d75bfdc120539d1c",
+      "salt": "6186e7033dbac71beb7faf3d2db97b0e",
+      "isActive": true,
+      "isSuperAdmin": false,
+      "createdAt": "2026-09-23T16:55:20.611Z",
+      "updatedAt": "2026-09-23T16:55:20.611Z"
     }
   },
   "memberships": {
@@ -1538,6 +1828,96 @@
       "status": "ACTIVE",
       "createdAt": "2026-09-23T16:18:22.989Z",
       "updatedAt": "2026-09-23T16:18:22.989Z"
+    },
+    "mem_8c3d74c88668bcee": {
+      "id": "mem_8c3d74c88668bcee",
+      "userId": "usr_1a702fc55b4def45",
+      "tenantId": "org_358c373cb5cc4467",
+      "role": "ORG_ADMIN",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:49:54.913Z",
+      "updatedAt": "2026-09-23T16:49:54.913Z"
+    },
+    "mem_1813209b73e1bcb7": {
+      "id": "mem_1813209b73e1bcb7",
+      "userId": "usr_b5bfec2ff749367f",
+      "tenantId": "org_92db51cdf95148b1",
+      "role": "PROCESS_ENGINEER",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:49:54.915Z",
+      "updatedAt": "2026-09-23T16:49:54.915Z"
+    },
+    "mem_3047975212524b70": {
+      "id": "mem_3047975212524b70",
+      "userId": "usr_d07a75386bf30346",
+      "tenantId": "org_6217b013eae783d9",
+      "role": "ORG_ADMIN",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:51:28.505Z",
+      "updatedAt": "2026-09-23T16:51:28.505Z"
+    },
+    "mem_ee19eeee2a60b9a4": {
+      "id": "mem_ee19eeee2a60b9a4",
+      "userId": "usr_8624c2b33abb5b87",
+      "tenantId": "org_cc9e4b7100e9223c",
+      "role": "PROCESS_ENGINEER",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:51:28.507Z",
+      "updatedAt": "2026-09-23T16:51:28.507Z"
+    },
+    "mem_25b9af84a5090a42": {
+      "id": "mem_25b9af84a5090a42",
+      "userId": "usr_533605181a41b5e4",
+      "tenantId": "org_9b96d1df68275920",
+      "role": "ORG_ADMIN",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:52:40.789Z",
+      "updatedAt": "2026-09-23T16:52:40.789Z"
+    },
+    "mem_bb379893d45416e9": {
+      "id": "mem_bb379893d45416e9",
+      "userId": "usr_3f5a7ff9246ad314",
+      "tenantId": "org_6fdfec7396432e60",
+      "role": "PROCESS_ENGINEER",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:52:40.790Z",
+      "updatedAt": "2026-09-23T16:52:40.790Z"
+    },
+    "mem_af47a378d5b75088": {
+      "id": "mem_af47a378d5b75088",
+      "userId": "usr_1a7d42d81310e0d1",
+      "tenantId": "org_87956203684e6632",
+      "role": "ORG_ADMIN",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:53:39.092Z",
+      "updatedAt": "2026-09-23T16:53:39.092Z"
+    },
+    "mem_b6c721bc4e8a606b": {
+      "id": "mem_b6c721bc4e8a606b",
+      "userId": "usr_195bea34b0683da5",
+      "tenantId": "org_070df701ca76c3aa",
+      "role": "PROCESS_ENGINEER",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:53:39.094Z",
+      "updatedAt": "2026-09-23T16:53:39.094Z"
+    },
+    "mem_8bf51ca677f65149": {
+      "id": "mem_8bf51ca677f65149",
+      "userId": "usr_f7bcb86e035ab1a1",
+      "tenantId": "org_b22d20814f820207",
+      "role": "ORG_ADMIN",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:55:20.614Z",
+      "updatedAt": "2026-09-23T16:55:20.614Z"
+    },
+    "mem_705a1c9b1c5db7e8": {
+      "id": "mem_705a1c9b1c5db7e8",
+      "userId": "usr_eae39d4ebdfcf5bf",
+      "tenantId": "org_837fe4253e80f999",
+      "role": "PROCESS_ENGINEER",
+      "status": "ACTIVE",
+      "createdAt": "2026-09-23T16:55:20.615Z",
+      "updatedAt": "2026-09-23T16:55:20.615Z"
     }
   },
   "auditLogs": {
@@ -4041,6 +4421,561 @@
       "status": "SUCCESS",
       "timestamp": "2026-09-23T16:18:23.099Z",
       "checksum": "050ae521c7fbf3e069ea8443cc320d748f83e2703af686e301028b0add9af2df"
+    },
+    "aud_ef214c5c93a379cb6257": {
+      "id": "aud_ef214c5c93a379cb6257",
+      "tenantId": "org_358c373cb5cc4467",
+      "actorId": "usr_1a702fc55b4def45",
+      "actorEmail": "alice_1790182194822@alpha.internal",
+      "actorRole": "ORG_ADMIN",
+      "action": "PROPRIETARY_ALPHA_FORMULA_UPDATED",
+      "resourceType": "FORMULA",
+      "resourceId": "form_991",
+      "details": {
+        "confidentialRatio": 0.88
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:49:54.917Z",
+      "checksum": "7cb9723f8cff5e40751cafce76b3969aa225deb67b643082f326d25d36dc086c"
+    },
+    "aud_924419f271dffd160ba7": {
+      "id": "aud_924419f271dffd160ba7",
+      "tenantId": "org_92db51cdf95148b1",
+      "actorId": "usr_b5bfec2ff749367f",
+      "actorEmail": "bob_1790182194911@beta.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "BETA_MAINTENANCE_SCHEDULED",
+      "resourceType": "MACHINE",
+      "resourceId": "mach_44",
+      "details": {
+        "machine": "Extruder 4"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:49:54.919Z",
+      "checksum": "73f17d7293621ce704744535d6d59c66680f9ed30f4595ff8d4417660ad81544"
+    },
+    "aud_97bd228d3f2526f4ba44": {
+      "id": "aud_97bd228d3f2526f4ba44",
+      "tenantId": "org_test_audit_88",
+      "actorId": "usr_compliance_1",
+      "actorEmail": "auditor@plant.internal",
+      "actorRole": "AUDITOR",
+      "action": "COMPLIANCE_SNAPSHOT_RECORDED",
+      "resourceType": "COMPLIANCE",
+      "resourceId": "snapshot_001",
+      "details": {
+        "inspectedLine": "Line 3",
+        "variance": 0.002
+      },
+      "ipAddress": "192.168.1.50",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:49:54.921Z",
+      "checksum": "1935f44b78f7b40f47982345ba475d39fb3096280ae80553c3215286dfeb621b"
+    },
+    "aud_c0922b034bf3c489014f": {
+      "id": "aud_c0922b034bf3c489014f",
+      "tenantId": "org_pipe_alpha_1790182194970",
+      "actorId": "engineer@alpha.internal",
+      "actorEmail": "engineer@alpha.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "DATA_INGESTION_COMPLETED",
+      "resourceType": "DATA_PIPELINE",
+      "resourceId": "job_0cb5b2e7a1b8c435",
+      "details": {
+        "dataSourceId": "ds_test_csv",
+        "sourceType": "CSV",
+        "totalRows": 5,
+        "validRows": 3,
+        "errorRows": 1,
+        "duplicateRows": 1,
+        "durationMs": 1,
+        "finalStatus": "PARTIAL"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:49:54.980Z",
+      "checksum": "dd39e6a1ca57adcd9baf58915ba99e3465b2310db53faf077f3109077ae051f7"
+    },
+    "aud_7cfc93ff999c9edc3332": {
+      "id": "aud_7cfc93ff999c9edc3332",
+      "tenantId": "org_kg_integ_1790182194989",
+      "actorId": "lead.engineer@industrial-brain.internal",
+      "actorEmail": "lead.engineer@industrial-brain.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ENTITY_MERGE_APPROVED",
+      "resourceType": "KNOWLEDGE_GRAPH",
+      "resourceId": "node_erp_1790182194989",
+      "details": {
+        "reviewItemId": "hrq_e12b43cca85b9f99",
+        "confidence": 0.72,
+        "decision": "APPROVED",
+        "notes": "Confirmed physical equipment matches after shop floor inspection"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:49:54.991Z",
+      "checksum": "b5648261a9656e1af11777ad2cdc8ffe4712935a78abfad9bbcc9c823ae584af"
+    },
+    "aud_3f84369c07d799aa0ea1": {
+      "id": "aud_3f84369c07d799aa0ea1",
+      "tenantId": "tenant_action_acceptance",
+      "actorId": "engineer@test.internal",
+      "actorEmail": "engineer@test.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ACTION_DISPATCHED_SUCCESS",
+      "resourceType": "ACTION_DISPATCHER",
+      "resourceId": "exec_d36f586b5460",
+      "details": {
+        "executionId": "exec_d36f586b5460",
+        "systemTarget": "CMMS",
+        "referenceId": "WO-CMMS-2026-17229",
+        "auditChecksum": "00f843709645155d1173ea66832c88515fef1b2f6d998f0709584771360da988"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:49:55.026Z",
+      "checksum": "97c3e5a0c5b7d7d5522c0dbcba81de8537ab4756df51d9c7cc3ba2cfb555b7b6"
+    },
+    "aud_ee0c617e9dbd8fb17c32": {
+      "id": "aud_ee0c617e9dbd8fb17c32",
+      "tenantId": "org_6217b013eae783d9",
+      "actorId": "usr_d07a75386bf30346",
+      "actorEmail": "alice_1790182288428@alpha.internal",
+      "actorRole": "ORG_ADMIN",
+      "action": "PROPRIETARY_ALPHA_FORMULA_UPDATED",
+      "resourceType": "FORMULA",
+      "resourceId": "form_991",
+      "details": {
+        "confidentialRatio": 0.88
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:51:28.508Z",
+      "checksum": "4e23eba99cb458251063821cfd04f04fedb649691acdabf0a22c93ad3b3527a3"
+    },
+    "aud_3cccea1b53f678945249": {
+      "id": "aud_3cccea1b53f678945249",
+      "tenantId": "org_cc9e4b7100e9223c",
+      "actorId": "usr_8624c2b33abb5b87",
+      "actorEmail": "bob_1790182288503@beta.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "BETA_MAINTENANCE_SCHEDULED",
+      "resourceType": "MACHINE",
+      "resourceId": "mach_44",
+      "details": {
+        "machine": "Extruder 4"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:51:28.510Z",
+      "checksum": "a3a2632c743ab9aa8cf33d381ae4afc7df63b3a19329854e890edaea39c2ab35"
+    },
+    "aud_32ad92e34c4470f77353": {
+      "id": "aud_32ad92e34c4470f77353",
+      "tenantId": "org_test_audit_88",
+      "actorId": "usr_compliance_1",
+      "actorEmail": "auditor@plant.internal",
+      "actorRole": "AUDITOR",
+      "action": "COMPLIANCE_SNAPSHOT_RECORDED",
+      "resourceType": "COMPLIANCE",
+      "resourceId": "snapshot_001",
+      "details": {
+        "inspectedLine": "Line 3",
+        "variance": 0.002
+      },
+      "ipAddress": "192.168.1.50",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:51:28.512Z",
+      "checksum": "7dc2116827a684aaffa7f4e25e928aaf50812fed998e94203b29dcf5a73901a5"
+    },
+    "aud_455d99cfd63a25998bb3": {
+      "id": "aud_455d99cfd63a25998bb3",
+      "tenantId": "org_pipe_alpha_1790182288564",
+      "actorId": "engineer@alpha.internal",
+      "actorEmail": "engineer@alpha.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "DATA_INGESTION_COMPLETED",
+      "resourceType": "DATA_PIPELINE",
+      "resourceId": "job_c3fd9ff0a5dd9de5",
+      "details": {
+        "dataSourceId": "ds_test_csv",
+        "sourceType": "CSV",
+        "totalRows": 5,
+        "validRows": 3,
+        "errorRows": 1,
+        "duplicateRows": 1,
+        "durationMs": 2,
+        "finalStatus": "PARTIAL"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:51:28.574Z",
+      "checksum": "baad5ae3148f04101a4a8d20a5440ce3b234db0f3a9aa018aad19d63b64f9407"
+    },
+    "aud_96e982d4c99ff6549488": {
+      "id": "aud_96e982d4c99ff6549488",
+      "tenantId": "org_kg_integ_1790182288583",
+      "actorId": "lead.engineer@industrial-brain.internal",
+      "actorEmail": "lead.engineer@industrial-brain.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ENTITY_MERGE_APPROVED",
+      "resourceType": "KNOWLEDGE_GRAPH",
+      "resourceId": "node_erp_1790182288583",
+      "details": {
+        "reviewItemId": "hrq_0505349381f39611",
+        "confidence": 0.72,
+        "decision": "APPROVED",
+        "notes": "Confirmed physical equipment matches after shop floor inspection"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:51:28.585Z",
+      "checksum": "16e42d88aff28e3a8ed33055ac6555c261767720724f00033554fbd81e2635b1"
+    },
+    "aud_f9086f713a56122db705": {
+      "id": "aud_f9086f713a56122db705",
+      "tenantId": "tenant_action_acceptance",
+      "actorId": "engineer@test.internal",
+      "actorEmail": "engineer@test.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ACTION_DISPATCHED_SUCCESS",
+      "resourceType": "ACTION_DISPATCHER",
+      "resourceId": "exec_856772ecae72",
+      "details": {
+        "executionId": "exec_856772ecae72",
+        "systemTarget": "CMMS",
+        "referenceId": "WO-CMMS-2026-80747",
+        "auditChecksum": "e96a9a5389b7c1d6255b4d3581094e0f3aa1d4ca6a78573b829c94d6eefbd86d"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:51:28.617Z",
+      "checksum": "d2466e7c6f308f5b85dc6d4645c5be7153f86a10e8214322ac00e954f3c37da8"
+    },
+    "aud_2e39ff0090c1b0370080": {
+      "id": "aud_2e39ff0090c1b0370080",
+      "tenantId": "org_9b96d1df68275920",
+      "actorId": "usr_533605181a41b5e4",
+      "actorEmail": "alice_1790182360710@alpha.internal",
+      "actorRole": "ORG_ADMIN",
+      "action": "PROPRIETARY_ALPHA_FORMULA_UPDATED",
+      "resourceType": "FORMULA",
+      "resourceId": "form_991",
+      "details": {
+        "confidentialRatio": 0.88
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:52:40.792Z",
+      "checksum": "33a86326f44173e8cb4ea710bee814e3ad6fa125e48a11e11c0c6f6c0c065ae6"
+    },
+    "aud_80a7c6b61760a144a6ac": {
+      "id": "aud_80a7c6b61760a144a6ac",
+      "tenantId": "org_6fdfec7396432e60",
+      "actorId": "usr_3f5a7ff9246ad314",
+      "actorEmail": "bob_1790182360786@beta.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "BETA_MAINTENANCE_SCHEDULED",
+      "resourceType": "MACHINE",
+      "resourceId": "mach_44",
+      "details": {
+        "machine": "Extruder 4"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:52:40.795Z",
+      "checksum": "932d97521f920e1c909bb3825728cf10faeb0373376f6708cb437a2d1cdb03d4"
+    },
+    "aud_6935550731f3179fdd49": {
+      "id": "aud_6935550731f3179fdd49",
+      "tenantId": "org_test_audit_88",
+      "actorId": "usr_compliance_1",
+      "actorEmail": "auditor@plant.internal",
+      "actorRole": "AUDITOR",
+      "action": "COMPLIANCE_SNAPSHOT_RECORDED",
+      "resourceType": "COMPLIANCE",
+      "resourceId": "snapshot_001",
+      "details": {
+        "inspectedLine": "Line 3",
+        "variance": 0.002
+      },
+      "ipAddress": "192.168.1.50",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:52:40.797Z",
+      "checksum": "1267572211a53847f5d93cc3dc4c897bdae83bf0ecf222caed158c95bed3bff5"
+    },
+    "aud_84b0b92b1f4ea91e6f3a": {
+      "id": "aud_84b0b92b1f4ea91e6f3a",
+      "tenantId": "org_pipe_alpha_1790182360850",
+      "actorId": "engineer@alpha.internal",
+      "actorEmail": "engineer@alpha.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "DATA_INGESTION_COMPLETED",
+      "resourceType": "DATA_PIPELINE",
+      "resourceId": "job_97264689bf8a708a",
+      "details": {
+        "dataSourceId": "ds_test_csv",
+        "sourceType": "CSV",
+        "totalRows": 5,
+        "validRows": 3,
+        "errorRows": 1,
+        "duplicateRows": 1,
+        "durationMs": 2,
+        "finalStatus": "PARTIAL"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:52:40.861Z",
+      "checksum": "934409e07b81c02d812e39390ae0c76f82604bdaa28cd24cff9fa7fa934b088b"
+    },
+    "aud_2063a37ff962f438aaf4": {
+      "id": "aud_2063a37ff962f438aaf4",
+      "tenantId": "org_kg_integ_1790182360872",
+      "actorId": "lead.engineer@industrial-brain.internal",
+      "actorEmail": "lead.engineer@industrial-brain.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ENTITY_MERGE_APPROVED",
+      "resourceType": "KNOWLEDGE_GRAPH",
+      "resourceId": "node_erp_1790182360872",
+      "details": {
+        "reviewItemId": "hrq_0c39fd80a489f4d4",
+        "confidence": 0.72,
+        "decision": "APPROVED",
+        "notes": "Confirmed physical equipment matches after shop floor inspection"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:52:40.873Z",
+      "checksum": "493dfff675d1974e7ef758f8762802ad5be207ab009dad825ab08981dc565ea5"
+    },
+    "aud_2dbf4231a6e8ed8c6aed": {
+      "id": "aud_2dbf4231a6e8ed8c6aed",
+      "tenantId": "tenant_action_acceptance",
+      "actorId": "engineer@test.internal",
+      "actorEmail": "engineer@test.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ACTION_DISPATCHED_SUCCESS",
+      "resourceType": "ACTION_DISPATCHER",
+      "resourceId": "exec_53043c574477",
+      "details": {
+        "executionId": "exec_53043c574477",
+        "systemTarget": "CMMS",
+        "referenceId": "WO-CMMS-2026-57312",
+        "auditChecksum": "d0ad00e6898a23256878f074de3dd6a63f5616c51ceba2d453da54c754f2ab78"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:52:40.908Z",
+      "checksum": "327413fabdecd22133758f9bd0f2d7c26af17cf915b3304597e53c29675785cb"
+    },
+    "aud_0a62cc99fcb15ffce255": {
+      "id": "aud_0a62cc99fcb15ffce255",
+      "tenantId": "org_87956203684e6632",
+      "actorId": "usr_1a7d42d81310e0d1",
+      "actorEmail": "alice_1790182419015@alpha.internal",
+      "actorRole": "ORG_ADMIN",
+      "action": "PROPRIETARY_ALPHA_FORMULA_UPDATED",
+      "resourceType": "FORMULA",
+      "resourceId": "form_991",
+      "details": {
+        "confidentialRatio": 0.88
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:53:39.095Z",
+      "checksum": "2709c5c748495ed355fb6f4ec43e8574df0e2556d357a66eeadfc7d14232c00c"
+    },
+    "aud_182b19039a7cc034d1c4": {
+      "id": "aud_182b19039a7cc034d1c4",
+      "tenantId": "org_070df701ca76c3aa",
+      "actorId": "usr_195bea34b0683da5",
+      "actorEmail": "bob_1790182419090@beta.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "BETA_MAINTENANCE_SCHEDULED",
+      "resourceType": "MACHINE",
+      "resourceId": "mach_44",
+      "details": {
+        "machine": "Extruder 4"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:53:39.097Z",
+      "checksum": "875f053d93f4be5ad0818259f1ff357825cc049fe805a0ebf679b324d4b96e91"
+    },
+    "aud_bc9da3f26c9bbce263b2": {
+      "id": "aud_bc9da3f26c9bbce263b2",
+      "tenantId": "org_test_audit_88",
+      "actorId": "usr_compliance_1",
+      "actorEmail": "auditor@plant.internal",
+      "actorRole": "AUDITOR",
+      "action": "COMPLIANCE_SNAPSHOT_RECORDED",
+      "resourceType": "COMPLIANCE",
+      "resourceId": "snapshot_001",
+      "details": {
+        "inspectedLine": "Line 3",
+        "variance": 0.002
+      },
+      "ipAddress": "192.168.1.50",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:53:39.099Z",
+      "checksum": "c1767acfc547b80e53b5f7d0a5758276bd325ca3ebd8a477b8723b4973744f6b"
+    },
+    "aud_043c6539cbe7d1dd3f4b": {
+      "id": "aud_043c6539cbe7d1dd3f4b",
+      "tenantId": "org_pipe_alpha_1790182419148",
+      "actorId": "engineer@alpha.internal",
+      "actorEmail": "engineer@alpha.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "DATA_INGESTION_COMPLETED",
+      "resourceType": "DATA_PIPELINE",
+      "resourceId": "job_d583232bbd68d7a7",
+      "details": {
+        "dataSourceId": "ds_test_csv",
+        "sourceType": "CSV",
+        "totalRows": 5,
+        "validRows": 3,
+        "errorRows": 1,
+        "duplicateRows": 1,
+        "durationMs": 2,
+        "finalStatus": "PARTIAL"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:53:39.159Z",
+      "checksum": "ae3cd0fbe0e5470fa23b6ef9117b7480d560fdaf0be2810cd1202ba7b713e7d2"
+    },
+    "aud_e7c07bdc2e2ccacfb65e": {
+      "id": "aud_e7c07bdc2e2ccacfb65e",
+      "tenantId": "org_kg_integ_1790182419169",
+      "actorId": "lead.engineer@industrial-brain.internal",
+      "actorEmail": "lead.engineer@industrial-brain.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ENTITY_MERGE_APPROVED",
+      "resourceType": "KNOWLEDGE_GRAPH",
+      "resourceId": "node_erp_1790182419169",
+      "details": {
+        "reviewItemId": "hrq_bbd7068b7ac82033",
+        "confidence": 0.72,
+        "decision": "APPROVED",
+        "notes": "Confirmed physical equipment matches after shop floor inspection"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:53:39.170Z",
+      "checksum": "fbc2505ccf2c2bfa8a80cfaa31bfbaaaa06a037e6beb388390b16c1f57f4bfdf"
+    },
+    "aud_8a1a8632ec3e40058955": {
+      "id": "aud_8a1a8632ec3e40058955",
+      "tenantId": "tenant_action_acceptance",
+      "actorId": "engineer@test.internal",
+      "actorEmail": "engineer@test.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ACTION_DISPATCHED_SUCCESS",
+      "resourceType": "ACTION_DISPATCHER",
+      "resourceId": "exec_ecc5146ba8ce",
+      "details": {
+        "executionId": "exec_ecc5146ba8ce",
+        "systemTarget": "CMMS",
+        "referenceId": "WO-CMMS-2026-84754",
+        "auditChecksum": "1513c64be71c96da8b083519148a05a49f40f6cd48c491a33a1b3435b1f1e1f6"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:53:39.202Z",
+      "checksum": "10b18d434a5ed3193a2dd183aa70f7da418b0f0304b62fc1520c66555c1bd5f2"
+    },
+    "aud_8f60c4a5e3d4dafc6778": {
+      "id": "aud_8f60c4a5e3d4dafc6778",
+      "tenantId": "org_b22d20814f820207",
+      "actorId": "usr_f7bcb86e035ab1a1",
+      "actorEmail": "alice_1790182520532@alpha.internal",
+      "actorRole": "ORG_ADMIN",
+      "action": "PROPRIETARY_ALPHA_FORMULA_UPDATED",
+      "resourceType": "FORMULA",
+      "resourceId": "form_991",
+      "details": {
+        "confidentialRatio": 0.88
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:55:20.617Z",
+      "checksum": "e87a79d87a545588bf4e1ad2fdc22edc250d54532a929c3835e0210ea20405e6"
+    },
+    "aud_39270b0d9d1c55af8a14": {
+      "id": "aud_39270b0d9d1c55af8a14",
+      "tenantId": "org_837fe4253e80f999",
+      "actorId": "usr_eae39d4ebdfcf5bf",
+      "actorEmail": "bob_1790182520611@beta.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "BETA_MAINTENANCE_SCHEDULED",
+      "resourceType": "MACHINE",
+      "resourceId": "mach_44",
+      "details": {
+        "machine": "Extruder 4"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:55:20.619Z",
+      "checksum": "272d6208193b6cebb385e2af457b4ea875015a590d712e3f2a29be9c344c9509"
+    },
+    "aud_0a4fa4a90f08224402cd": {
+      "id": "aud_0a4fa4a90f08224402cd",
+      "tenantId": "org_test_audit_88",
+      "actorId": "usr_compliance_1",
+      "actorEmail": "auditor@plant.internal",
+      "actorRole": "AUDITOR",
+      "action": "COMPLIANCE_SNAPSHOT_RECORDED",
+      "resourceType": "COMPLIANCE",
+      "resourceId": "snapshot_001",
+      "details": {
+        "inspectedLine": "Line 3",
+        "variance": 0.002
+      },
+      "ipAddress": "192.168.1.50",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:55:20.622Z",
+      "checksum": "2bb4816e8280f0545eb9646d17ceabc92beb70c0746bb9ccea8fd434907b275d"
+    },
+    "aud_fa7bf99d9a3da6ced2ef": {
+      "id": "aud_fa7bf99d9a3da6ced2ef",
+      "tenantId": "org_pipe_alpha_1790182520673",
+      "actorId": "engineer@alpha.internal",
+      "actorEmail": "engineer@alpha.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "DATA_INGESTION_COMPLETED",
+      "resourceType": "DATA_PIPELINE",
+      "resourceId": "job_e66452ffb24f309f",
+      "details": {
+        "dataSourceId": "ds_test_csv",
+        "sourceType": "CSV",
+        "totalRows": 5,
+        "validRows": 3,
+        "errorRows": 1,
+        "duplicateRows": 1,
+        "durationMs": 2,
+        "finalStatus": "PARTIAL"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:55:20.684Z",
+      "checksum": "ed96296be6e595197916a2e98861ded702b135beb471750504c7b3bd8c300f47"
+    },
+    "aud_5e59a2ff9f2d50730698": {
+      "id": "aud_5e59a2ff9f2d50730698",
+      "tenantId": "org_kg_integ_1790182520694",
+      "actorId": "lead.engineer@industrial-brain.internal",
+      "actorEmail": "lead.engineer@industrial-brain.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ENTITY_MERGE_APPROVED",
+      "resourceType": "KNOWLEDGE_GRAPH",
+      "resourceId": "node_erp_1790182520694",
+      "details": {
+        "reviewItemId": "hrq_c75455654dfb9651",
+        "confidence": 0.72,
+        "decision": "APPROVED",
+        "notes": "Confirmed physical equipment matches after shop floor inspection"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:55:20.696Z",
+      "checksum": "2303decf33db0939ce93a11e3ae892a84465dedea0479b6b52af57d98f7e942e"
+    },
+    "aud_0904475d9297bf6c96ca": {
+      "id": "aud_0904475d9297bf6c96ca",
+      "tenantId": "tenant_action_acceptance",
+      "actorId": "engineer@test.internal",
+      "actorEmail": "engineer@test.internal",
+      "actorRole": "PROCESS_ENGINEER",
+      "action": "ACTION_DISPATCHED_SUCCESS",
+      "resourceType": "ACTION_DISPATCHER",
+      "resourceId": "exec_15911daeee07",
+      "details": {
+        "executionId": "exec_15911daeee07",
+        "systemTarget": "CMMS",
+        "referenceId": "WO-CMMS-2026-65246",
+        "auditChecksum": "d04db82f621558b2ba65e191a44412bbad23d6a20ea8096597c676d068bd557e"
+      },
+      "status": "SUCCESS",
+      "timestamp": "2026-09-23T16:55:20.729Z",
+      "checksum": "71a882b795ecf1bc5030dc1ff3b86676127347f4276c580bebce2f94a5aaddfc"
     }
   },
   "dataSources": {},
@@ -4359,6 +5294,81 @@
       "startedAt": "2026-09-23T16:18:23.047Z",
       "initiatedBy": "engineer@alpha.internal",
       "completedAt": "2026-09-23T16:18:23.049Z"
+    },
+    "job_0cb5b2e7a1b8c435": {
+      "id": "job_0cb5b2e7a1b8c435",
+      "tenantId": "org_pipe_alpha_1790182194970",
+      "dataSourceId": "ds_test_csv",
+      "sourceType": "CSV",
+      "status": "PARTIAL",
+      "totalRecords": 5,
+      "validRecords": 3,
+      "errorRecords": 1,
+      "duplicateRecords": 1,
+      "durationMs": 1,
+      "startedAt": "2026-09-23T16:49:54.974Z",
+      "initiatedBy": "engineer@alpha.internal",
+      "completedAt": "2026-09-23T16:49:54.975Z"
+    },
+    "job_c3fd9ff0a5dd9de5": {
+      "id": "job_c3fd9ff0a5dd9de5",
+      "tenantId": "org_pipe_alpha_1790182288564",
+      "dataSourceId": "ds_test_csv",
+      "sourceType": "CSV",
+      "status": "PARTIAL",
+      "totalRecords": 5,
+      "validRecords": 3,
+      "errorRecords": 1,
+      "duplicateRecords": 1,
+      "durationMs": 2,
+      "startedAt": "2026-09-23T16:51:28.568Z",
+      "initiatedBy": "engineer@alpha.internal",
+      "completedAt": "2026-09-23T16:51:28.570Z"
+    },
+    "job_97264689bf8a708a": {
+      "id": "job_97264689bf8a708a",
+      "tenantId": "org_pipe_alpha_1790182360850",
+      "dataSourceId": "ds_test_csv",
+      "sourceType": "CSV",
+      "status": "PARTIAL",
+      "totalRecords": 5,
+      "validRecords": 3,
+      "errorRecords": 1,
+      "duplicateRecords": 1,
+      "durationMs": 2,
+      "startedAt": "2026-09-23T16:52:40.855Z",
+      "initiatedBy": "engineer@alpha.internal",
+      "completedAt": "2026-09-23T16:52:40.856Z"
+    },
+    "job_d583232bbd68d7a7": {
+      "id": "job_d583232bbd68d7a7",
+      "tenantId": "org_pipe_alpha_1790182419148",
+      "dataSourceId": "ds_test_csv",
+      "sourceType": "CSV",
+      "status": "PARTIAL",
+      "totalRecords": 5,
+      "validRecords": 3,
+      "errorRecords": 1,
+      "duplicateRecords": 1,
+      "durationMs": 2,
+      "startedAt": "2026-09-23T16:53:39.152Z",
+      "initiatedBy": "engineer@alpha.internal",
+      "completedAt": "2026-09-23T16:53:39.154Z"
+    },
+    "job_e66452ffb24f309f": {
+      "id": "job_e66452ffb24f309f",
+      "tenantId": "org_pipe_alpha_1790182520673",
+      "dataSourceId": "ds_test_csv",
+      "sourceType": "CSV",
+      "status": "PARTIAL",
+      "totalRecords": 5,
+      "validRecords": 3,
+      "errorRecords": 1,
+      "duplicateRecords": 1,
+      "durationMs": 2,
+      "startedAt": "2026-09-23T16:55:20.678Z",
+      "initiatedBy": "engineer@alpha.internal",
+      "completedAt": "2026-09-23T16:55:20.679Z"
     }
   },
   "normalizedRecords": {
@@ -5437,6 +6447,246 @@
       "schemaVersion": "1.0.0",
       "ingestedAt": "2026-09-23T16:18:23.049Z",
       "rowChecksum": "1c1c66bf1e3f6ed98eb27d27428177f7d6fa2240594aec8cd51267c11e4d88eb"
+    },
+    "rec_90cdfe763e3c836d33cf760e": {
+      "id": "rec_90cdfe763e3c836d33cf760e",
+      "tenantId": "org_pipe_alpha_1790182194970",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_0cb5b2e7a1b8c435",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-01",
+      "payload": {
+        "order_id": "PO-ALPHA-01",
+        "sku": "PART-A",
+        "qty": 100
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:49:54.975Z",
+      "rowChecksum": "2e74fde2660082110cdca0a116c62eb0d77d5c593f26a4db47c2d2029ec58490"
+    },
+    "rec_1c6739b8e181d3feff1d61a3": {
+      "id": "rec_1c6739b8e181d3feff1d61a3",
+      "tenantId": "org_pipe_alpha_1790182194970",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_0cb5b2e7a1b8c435",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-02",
+      "payload": {
+        "order_id": "PO-ALPHA-02",
+        "sku": "PART-B",
+        "qty": 250
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:49:54.975Z",
+      "rowChecksum": "c98c2070ac83eeb4b1f07689a1e800b5fcb060140de23174351deea5d82dec32"
+    },
+    "rec_f0b5ffcbea13ac551c131569": {
+      "id": "rec_f0b5ffcbea13ac551c131569",
+      "tenantId": "org_pipe_alpha_1790182194970",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_0cb5b2e7a1b8c435",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-03",
+      "payload": {
+        "order_id": "PO-ALPHA-03",
+        "sku": "PART-C",
+        "qty": 90
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:49:54.975Z",
+      "rowChecksum": "1c1c66bf1e3f6ed98eb27d27428177f7d6fa2240594aec8cd51267c11e4d88eb"
+    },
+    "rec_f6bc4c81ab61fbcfe078cbd6": {
+      "id": "rec_f6bc4c81ab61fbcfe078cbd6",
+      "tenantId": "org_pipe_alpha_1790182288564",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_c3fd9ff0a5dd9de5",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-01",
+      "payload": {
+        "order_id": "PO-ALPHA-01",
+        "sku": "PART-A",
+        "qty": 100
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:51:28.569Z",
+      "rowChecksum": "2e74fde2660082110cdca0a116c62eb0d77d5c593f26a4db47c2d2029ec58490"
+    },
+    "rec_070930cc4e17d8e06cfb7b74": {
+      "id": "rec_070930cc4e17d8e06cfb7b74",
+      "tenantId": "org_pipe_alpha_1790182288564",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_c3fd9ff0a5dd9de5",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-02",
+      "payload": {
+        "order_id": "PO-ALPHA-02",
+        "sku": "PART-B",
+        "qty": 250
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:51:28.570Z",
+      "rowChecksum": "c98c2070ac83eeb4b1f07689a1e800b5fcb060140de23174351deea5d82dec32"
+    },
+    "rec_3db5e4cf96b1b3e17725e8a5": {
+      "id": "rec_3db5e4cf96b1b3e17725e8a5",
+      "tenantId": "org_pipe_alpha_1790182288564",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_c3fd9ff0a5dd9de5",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-03",
+      "payload": {
+        "order_id": "PO-ALPHA-03",
+        "sku": "PART-C",
+        "qty": 90
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:51:28.570Z",
+      "rowChecksum": "1c1c66bf1e3f6ed98eb27d27428177f7d6fa2240594aec8cd51267c11e4d88eb"
+    },
+    "rec_ee75dbef420e2b2849866359": {
+      "id": "rec_ee75dbef420e2b2849866359",
+      "tenantId": "org_pipe_alpha_1790182360850",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_97264689bf8a708a",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-01",
+      "payload": {
+        "order_id": "PO-ALPHA-01",
+        "sku": "PART-A",
+        "qty": 100
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:52:40.856Z",
+      "rowChecksum": "2e74fde2660082110cdca0a116c62eb0d77d5c593f26a4db47c2d2029ec58490"
+    },
+    "rec_5690ea4143b1af474ed0466d": {
+      "id": "rec_5690ea4143b1af474ed0466d",
+      "tenantId": "org_pipe_alpha_1790182360850",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_97264689bf8a708a",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-02",
+      "payload": {
+        "order_id": "PO-ALPHA-02",
+        "sku": "PART-B",
+        "qty": 250
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:52:40.856Z",
+      "rowChecksum": "c98c2070ac83eeb4b1f07689a1e800b5fcb060140de23174351deea5d82dec32"
+    },
+    "rec_671fdda7d061abfb89aa3731": {
+      "id": "rec_671fdda7d061abfb89aa3731",
+      "tenantId": "org_pipe_alpha_1790182360850",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_97264689bf8a708a",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-03",
+      "payload": {
+        "order_id": "PO-ALPHA-03",
+        "sku": "PART-C",
+        "qty": 90
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:52:40.856Z",
+      "rowChecksum": "1c1c66bf1e3f6ed98eb27d27428177f7d6fa2240594aec8cd51267c11e4d88eb"
+    },
+    "rec_e6352fd837f67800ab4c53a8": {
+      "id": "rec_e6352fd837f67800ab4c53a8",
+      "tenantId": "org_pipe_alpha_1790182419148",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_d583232bbd68d7a7",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-01",
+      "payload": {
+        "order_id": "PO-ALPHA-01",
+        "sku": "PART-A",
+        "qty": 100
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:53:39.154Z",
+      "rowChecksum": "2e74fde2660082110cdca0a116c62eb0d77d5c593f26a4db47c2d2029ec58490"
+    },
+    "rec_3a0e6b082375b532e5f4c5ac": {
+      "id": "rec_3a0e6b082375b532e5f4c5ac",
+      "tenantId": "org_pipe_alpha_1790182419148",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_d583232bbd68d7a7",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-02",
+      "payload": {
+        "order_id": "PO-ALPHA-02",
+        "sku": "PART-B",
+        "qty": 250
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:53:39.154Z",
+      "rowChecksum": "c98c2070ac83eeb4b1f07689a1e800b5fcb060140de23174351deea5d82dec32"
+    },
+    "rec_2b243d9966c547721f713000": {
+      "id": "rec_2b243d9966c547721f713000",
+      "tenantId": "org_pipe_alpha_1790182419148",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_d583232bbd68d7a7",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-03",
+      "payload": {
+        "order_id": "PO-ALPHA-03",
+        "sku": "PART-C",
+        "qty": 90
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:53:39.154Z",
+      "rowChecksum": "1c1c66bf1e3f6ed98eb27d27428177f7d6fa2240594aec8cd51267c11e4d88eb"
+    },
+    "rec_5144c621454d330cb0e573cd": {
+      "id": "rec_5144c621454d330cb0e573cd",
+      "tenantId": "org_pipe_alpha_1790182520673",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_e66452ffb24f309f",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-01",
+      "payload": {
+        "order_id": "PO-ALPHA-01",
+        "sku": "PART-A",
+        "qty": 100
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:55:20.679Z",
+      "rowChecksum": "2e74fde2660082110cdca0a116c62eb0d77d5c593f26a4db47c2d2029ec58490"
+    },
+    "rec_a2d99f6b8cd5f30961a657ac": {
+      "id": "rec_a2d99f6b8cd5f30961a657ac",
+      "tenantId": "org_pipe_alpha_1790182520673",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_e66452ffb24f309f",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-02",
+      "payload": {
+        "order_id": "PO-ALPHA-02",
+        "sku": "PART-B",
+        "qty": 250
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:55:20.679Z",
+      "rowChecksum": "c98c2070ac83eeb4b1f07689a1e800b5fcb060140de23174351deea5d82dec32"
+    },
+    "rec_d30de6ebfe507a70d9f2d243": {
+      "id": "rec_d30de6ebfe507a70d9f2d243",
+      "tenantId": "org_pipe_alpha_1790182520673",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_e66452ffb24f309f",
+      "entityType": "PRODUCTION_BATCH",
+      "externalId": "PO-ALPHA-03",
+      "payload": {
+        "order_id": "PO-ALPHA-03",
+        "sku": "PART-C",
+        "qty": 90
+      },
+      "schemaVersion": "1.0.0",
+      "ingestedAt": "2026-09-23T16:55:20.679Z",
+      "rowChecksum": "1c1c66bf1e3f6ed98eb27d27428177f7d6fa2240594aec8cd51267c11e4d88eb"
     }
   },
   "deadLetterQueue": {
@@ -5642,6 +6892,66 @@
       "errorCode": "EMPTY_OR_INVALID_ROW",
       "errorMessage": "Row payload is null, undefined, or empty object",
       "failedAt": "2026-09-23T16:18:23.049Z",
+      "resolved": false
+    },
+    "dlq_ae31b2eea5ff38adac39": {
+      "id": "dlq_ae31b2eea5ff38adac39",
+      "tenantId": "org_pipe_alpha_1790182194970",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_0cb5b2e7a1b8c435",
+      "rowIndex": 4,
+      "rawRow": null,
+      "errorCode": "EMPTY_OR_INVALID_ROW",
+      "errorMessage": "Row payload is null, undefined, or empty object",
+      "failedAt": "2026-09-23T16:49:54.975Z",
+      "resolved": false
+    },
+    "dlq_a07a9730eb8fa69aced3": {
+      "id": "dlq_a07a9730eb8fa69aced3",
+      "tenantId": "org_pipe_alpha_1790182288564",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_c3fd9ff0a5dd9de5",
+      "rowIndex": 4,
+      "rawRow": null,
+      "errorCode": "EMPTY_OR_INVALID_ROW",
+      "errorMessage": "Row payload is null, undefined, or empty object",
+      "failedAt": "2026-09-23T16:51:28.570Z",
+      "resolved": false
+    },
+    "dlq_894fed80914eb0a22ac0": {
+      "id": "dlq_894fed80914eb0a22ac0",
+      "tenantId": "org_pipe_alpha_1790182360850",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_97264689bf8a708a",
+      "rowIndex": 4,
+      "rawRow": null,
+      "errorCode": "EMPTY_OR_INVALID_ROW",
+      "errorMessage": "Row payload is null, undefined, or empty object",
+      "failedAt": "2026-09-23T16:52:40.856Z",
+      "resolved": false
+    },
+    "dlq_af425e5a5a5c749aacab": {
+      "id": "dlq_af425e5a5a5c749aacab",
+      "tenantId": "org_pipe_alpha_1790182419148",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_d583232bbd68d7a7",
+      "rowIndex": 4,
+      "rawRow": null,
+      "errorCode": "EMPTY_OR_INVALID_ROW",
+      "errorMessage": "Row payload is null, undefined, or empty object",
+      "failedAt": "2026-09-23T16:53:39.154Z",
+      "resolved": false
+    },
+    "dlq_23cbdff055fa9b5cd03a": {
+      "id": "dlq_23cbdff055fa9b5cd03a",
+      "tenantId": "org_pipe_alpha_1790182520673",
+      "dataSourceId": "ds_test_csv",
+      "jobId": "job_e66452ffb24f309f",
+      "rowIndex": 4,
+      "rawRow": null,
+      "errorCode": "EMPTY_OR_INVALID_ROW",
+      "errorMessage": "Row payload is null, undefined, or empty object",
+      "failedAt": "2026-09-23T16:55:20.679Z",
       "resolved": false
     }
   }
