@@ -6,8 +6,8 @@ services:
     region: frankfurt
     branch: main
     autoDeploy: true
-    buildCommand: npm ci && npm run lint && npm run build
-    startCommand: npm run start
+    buildCommand: bun install --frozen-lockfile && bun run lint && bun run build
+    startCommand: bun run start
     healthCheckPath: /healthz
     envVars:
       - key: NODE_ENV
