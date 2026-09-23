@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "tsx server.ts",
     "build": "vite build",
+    "postinstall": "vite build",
     "start": "vite build && tsx server.ts",
     "test": "tsx tests/runner.ts",
     "check": "npm run lint && npm test && npm run build",
