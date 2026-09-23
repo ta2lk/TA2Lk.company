@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Brain",
+  "description": "An AI-native operational intelligence layer that connects industrial systems, enforces strict tenant isolation, RBAC, audit trails, and policy-driven operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
