@@ -7,6 +7,7 @@
 
 import express, { Request, Response, NextFunction } from 'express';
 import path from 'path';
+import fs from 'fs';
 import { fileURLToPath } from 'url';
 import { createServer as createViteServer } from 'vite';
 import { authRouter } from './src/backend/routes/authRoutes.ts';
@@ -142,9 +143,9 @@ async function startServer() {
   app.use('/api/v1', healthRouter);
   app.use('/api/v1', openapiRouter);
 
-  // Frontend integration: Vite middleware in development, static build in production
-  if (process.env.NODE_ENV === 'production') {
-    const distPath = path.resolve(__dirname, 'dist');
+  // Frontend integration: Static build if dist exists or in production, otherwise Vite middleware
+  const distPath = path.resolve(__dirname, 'dist');
+  if (process.env.NODE_ENV === 'production' || fs.existsSync(path.join(distPath, 'index.html'))) {
     app.use(express.static(distPath));
     app.get('*', (req: Request, res: Response) => {
       res.sendFile(path.resolve(distPath, 'index.html'));
