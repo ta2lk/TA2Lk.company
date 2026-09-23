@@ -1,7 +1,8 @@
-import { Router, Request, Response } from 'express';
+import { Router, Response } from 'express';
 import { GoogleGenAI } from '@google/genai';
 import { db } from '../db/database.ts';
 import { globalGraphStore } from '../../../packages/graph/graphStore.ts';
+import { authenticate, enforceTenant, AuthenticatedRequest } from '../middleware/auth.ts';
 
 export const aiRouter = Router();
 
@@ -16,14 +17,14 @@ const ai = new GoogleGenAI({
 
 const MODELS = ['gemini-3.8-flash', 'gemini-flash-latest', 'gemini-3.1-flash-lite'];
 
-aiRouter.post('/ai/chat', async (req: Request, res: Response) => {
+aiRouter.post('/ai/chat', authenticate, enforceTenant, async (req: AuthenticatedRequest, res: Response) => {
   try {
-    const { message, tenantId } = req.body;
+    const { message } = req.body;
     if (!message) {
       return res.status(400).json({ error: 'Message is required' });
     }
 
-    const targetTenant = tenantId || 'apex-mfg';
+    const targetTenant = req.tenant!.id;
     const nodes = globalGraphStore.listNodesForTenant(targetTenant);
     const auditLogsResult = db.listAuditLogsForTenant(targetTenant, { limit: 5 });
     const auditLogs = auditLogsResult.items || [];

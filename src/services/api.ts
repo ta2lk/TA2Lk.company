@@ -539,6 +539,13 @@ class ApiService {
     return this.request<any>('/api/v1/health');
   }
 
+  public async chatWithCopilot(message: string) {
+    return this.request<{ reply: string; timestamp: string; tenantId: string }>('/api/v1/ai/chat', {
+      method: 'POST',
+      body: JSON.stringify({ message }),
+    });
+  }
+
   public async getOpenApiSpec() {
     return this.request<any>('/api/v1/openapi.json');
   }
