@@ -143,8 +143,8 @@ async function startServer() {
   app.use('/api/v1/reasoning', reasoningRouter);
   app.use('/api/v1/actions', actionRouter);
   app.use('/api/v1', aiRouter);
-  app.use('/api/v1', searchRouter); // For /api/v1/documents
   app.use('/api/v1', healthRouter);
+  app.use('/api/v1', searchRouter); // For /api/v1/documents
   app.use('/api/v1', openapiRouter);
 
   // Frontend integration: Static build if dist exists or in production, otherwise Vite middleware
